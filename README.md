@@ -1,4 +1,4 @@
-# Prework - *anp_ios_prework*
+# Prework - anp_ios_prework
 
 Submitted by: **Amy Nguyen Pham**
 
@@ -34,7 +34,15 @@ Tiktok:
 - View video, buy same thing on Tiktok Shop
 
 Forest:
-- Grow a tree to focus. If touch phone, tree dies 
+- Grow a tree to focus. If touch phone, tree dies
+
+App Idea:
+An app where people can updload pictures to find description for specific type of clothes 
+
+Function:
+- User can upload picture
+- After uploading, the backend run the algorithm and return specific type of clothes (wool pea coat/ parka etc instead of just coat). We can integrate ChatGPT API or use our own model
+- User can rate the result
 
 ## Notes
 
